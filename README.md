@@ -4,6 +4,7 @@ Sedimentation boundary level recognition using computer vision and machine learn
 
 ## Motivation
 Scientific publication: https://www.elibrary.ru/item.asp?id=48699556
+
 Developing effective water treatment systems for mining and processing plants is crucial for their economic success.
 Automated laboratory research on sedimentation can significantly reduce costs for studying rock formation and designing purification systems.
 
