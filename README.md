@@ -12,7 +12,7 @@ Automated laboratory research on sedimentation can significantly reduce costs fo
 
 ## Data Set
 The initial data consists of images capturing particle sedimentation processes in various rock formations within liquid environments.
-![Alt text](s1v1s/Sedimentation-Automated-Research-System/flask_example.jpg)
+![Alt text](flask_example.jpg)
 
 ## Research structure
 Processing the initial data using a computer vision (CV) algorithm involves:
@@ -38,8 +38,8 @@ Using a convolutional neural network (CNN) involves:
 
 ● Created a prototype setup and research software
 
-![Alt text](s1v1s/Sedimentation-Automated-Research-System/recognition_example1.jpg)
-![Alt text](s1v1s/Sedimentation-Automated-Research-System/recognition_example2.jpg)
+![Alt text](recognition_example1.jpg)
+![Alt text](recognition_example2.jpg)
 
 ## Conclusion
 The project's results can be implemented in ongoing sedimentation research processes. Feedback from mineral processing experts will help with improvement of current algorithms.
