@@ -13,19 +13,27 @@ The initial data consists of images capturing particle sedimentation processes i
 
 
 ## Research structure
-Processing the initial data using a computer vision (CV) algorithm involves: 
+Processing the initial data using a computer vision (CV) algorithm involves:
+
 ● Identifying significant image regions; 
+
 ● Tuning algorithm parameters;
+
 ● Scaling images considering camera specifics.
 
+
 Using a convolutional neural network (CNN) involves: 
+
 ● Recognising boundary level between mediums; 
+
 ● Creating diagrams for level changes in different containers.
 
 
 ## Results
 ● Algorithm for defining medium boundaries using computer vision methods
+
 ● Neural network trained to recognize medium boundaries
+
 ● Created a prototype setup and research software
 
 
