@@ -4,6 +4,7 @@ Sedimentation boundary level recognition using computer vision and machine learn
 
 ## Motivation
 Scientific publication: https://www.elibrary.ru/item.asp?id=48699556
+
 Full article (pdf pages 150-156): https://www.istu.edu/local/modules/doc/download/67473
 
 Developing effective water treatment systems for mining and processing plants is crucial for their economic success.
@@ -12,7 +13,8 @@ Automated laboratory research on sedimentation can significantly reduce costs fo
 
 ## Data Set
 The initial data consists of images capturing particle sedimentation processes in various rock formations within liquid environments.
-![Alt text](flask_example.jpg)
+
+![](flask_example.jpg)
 
 ## Research structure
 Processing the initial data using a computer vision (CV) algorithm involves:
@@ -38,8 +40,18 @@ Using a convolutional neural network (CNN) involves:
 
 ● Created a prototype setup and research software
 
-![Alt text](recognition_example1.jpg)
-![Alt text](recognition_example2.jpg)
+
+<table>
+  <tr>
+    <td>
+      <img src="recognition_example1.jpg">
+    </td>
+    <td>
+      <img src="recognition_example2.jpg">
+    </td>
+  </tr>
+</table>
+
 
 ## Conclusion
 The project's results can be implemented in ongoing sedimentation research processes. Feedback from mineral processing experts will help with improvement of current algorithms.
